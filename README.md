@@ -1,12 +1,8 @@
-# 40% PCB Keyboard Design with KiCAD
+# Speedrun 40% PCB Keyboard Design with KiCAD
 
 ![Keyboard](./img/keyboard.png)
 
 **Keyboard design is supposed to be hard, isn't it? No longer.**
-
-## Overview
-
-This repository contains all the necessary files to create a 40% PCB keyboard using KiCAD, Keyboard Layout Editor, and a few handy scripts. A STM32L443CCU microcontroller powers the keyboard, and the design includes USB-C connectivity.
 
 ## Features
 
